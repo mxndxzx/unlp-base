@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b55201095b4e1bb8",
+            "id": "14501cca9672388b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CADP/Teoría/4 - Máximos y Mínimos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CADP/Teoría/4 - Máximos y Mínimos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CADP/Teoría/4 - Máximos y Mínimos.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CADP/Teoría/4 - Máximos y Mínimos.md"
+              }
             }
           },
           {
@@ -130,7 +139,7 @@
             }
           },
           {
-            "id": "a6dd51782df29dff",
+            "id": "09290f3633424c13",
             "type": "leaf",
             "state": {
               "type": "Strange New Worlds",
@@ -138,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,8 +171,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b55201095b4e1bb8",
+  "active": "14501cca9672388b",
   "lastOpenFiles": [
+    "CADP/Teoría/Ejemplos en código/4-max-min.exe",
+    "CADP/Teoría/Ejemplos en código/4-max-min.o",
+    "CADP/Teoría/Ejemplos en código/4-max-min.pas",
+    "CADP/Teoría/Ejemplos en código/x.pascal",
+    "CADP/Teoría/Ejemplos en código",
+    "CADP/Teoría/ejemplos-codigo",
+    "CADP/Teoría/New folder",
+    "CADP/Teoría/ppt/~$7-Maximos-y-Minimos.ppt",
+    "CADP/Teoría/3 - Estructuras de Control.md",
+    "CADP/Teoría/4 - Máximos y Mínimos.md",
+    "CADP/Teoría/ppt/~$6-Estructura-de-control-FOR.ppt",
+    "CADP/Teoría/ppt/~$5-Estructuras-de-control-WHILE-y-REPEAT-UNTIL.ppt",
+    "_assets/Excalidraw/Drawing 2023-08-28 17.41.25.excalidraw.md",
+    "CADP/Teoría/1- Tipos de Datos.md",
+    "CADP/Teoría/2 - Estructura básica de un programa.md",
+    "_assets/Excalidraw/Drawing 2023-08-23 16.52.28.excalidraw.md",
+    "Excalidraw",
+    "CADP/Teoría/0 - Introducción.md",
+    "_assets/Pasted image 20230823165750.png",
+    "Personal/Untitled.md",
+    "Personal/Mercado/Introducción.md",
+    "Personal/Formateo Agosto 23'.md",
+    "ReactJS/Apuntes.md",
+    "ReactJS/Intro.md",
+    "ReactJS/Conceptos de React.md",
+    "Git/Principiantes/Control de Versiones.md",
+    "Git/Bienvenido a la Biblia de Git!.md",
+    "Git/Cheatsheet.md",
     "Docker.md"
   ]
 }

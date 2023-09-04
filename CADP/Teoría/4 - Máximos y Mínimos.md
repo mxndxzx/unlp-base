@@ -1,0 +1,3 @@
+El concepto de máximos y mínimos se basa en la **comparación** de valores. Es decir, cuando quiero saber el valor más alto entre una serie de números, tengo que verificar de a un valor, guardarlo como el más alto, y luego seguir verificando el valor de cada uno actualizando el máximo cada vez que la comparación me de más alta que el número anterior.
+
+Medio kilombo explicarlo así, pero es simplemente esto. Para los mínimos es el mismo concepto.

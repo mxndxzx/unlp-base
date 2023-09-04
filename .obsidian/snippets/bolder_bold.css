@@ -1,0 +1,7 @@
+.theme-dark { 
+    --bold-weight: 700;
+}
+
+.cm-s-obsidian span.cm-inline-code {
+    color: lightcoral;
+}
