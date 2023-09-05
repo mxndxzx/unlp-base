@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CADP/Teoría/4 - Máximos y Mínimos.md",
+                "file": "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd2937e4d5a962bb",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CADP/Teoría/4 - Máximos y Mínimos.md",
+                "file": "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CADP/Teoría/4 - Máximos y Mínimos.md",
+                "file": "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CADP/Teoría/4 - Máximos y Mínimos.md"
+                "file": "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md"
               }
             }
           },
@@ -173,6 +174,9 @@
   },
   "active": "14501cca9672388b",
   "lastOpenFiles": [
+    "CADP/Prácticas/0 - Introducción.md",
+    "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md",
+    "CADP/Teoría/4 - Máximos y Mínimos.md",
     "CADP/Teoría/Ejemplos en código/4-max-min.exe",
     "CADP/Teoría/Ejemplos en código/4-max-min.o",
     "CADP/Teoría/Ejemplos en código/4-max-min.pas",
@@ -182,14 +186,12 @@
     "CADP/Teoría/New folder",
     "CADP/Teoría/ppt/~$7-Maximos-y-Minimos.ppt",
     "CADP/Teoría/3 - Estructuras de Control.md",
-    "CADP/Teoría/4 - Máximos y Mínimos.md",
     "CADP/Teoría/ppt/~$6-Estructura-de-control-FOR.ppt",
     "CADP/Teoría/ppt/~$5-Estructuras-de-control-WHILE-y-REPEAT-UNTIL.ppt",
     "_assets/Excalidraw/Drawing 2023-08-28 17.41.25.excalidraw.md",
     "CADP/Teoría/1- Tipos de Datos.md",
     "CADP/Teoría/2 - Estructura básica de un programa.md",
     "_assets/Excalidraw/Drawing 2023-08-23 16.52.28.excalidraw.md",
-    "Excalidraw",
     "CADP/Teoría/0 - Introducción.md",
     "_assets/Pasted image 20230823165750.png",
     "Personal/Untitled.md",

@@ -1,16 +1,13 @@
 program ejemplo4;
 var
-    prom,max,min:integer;
+    input,max:real;
 begin
-    max := -1;
-    min := 11;
-    read(prom);
-    while (prom <> 0) do begin
-        if (prom >= max) then
-            max:= prom
-        else if (prom <= min) then
-            min := prom;
-        read(prom)
+    max := 0;
+    read(input);
+    while (input <> 0) do begin
+        if (input > max) then
+            max:= input;
+        read(input)
     end;
-    write(max,min);
+    write(max);
 end.
