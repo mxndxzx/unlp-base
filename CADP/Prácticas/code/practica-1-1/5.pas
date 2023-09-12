@@ -1,4 +1,4 @@
-program ej4;
+program ej5;
 var
     num,num_save:real; i:integer;
 begin
