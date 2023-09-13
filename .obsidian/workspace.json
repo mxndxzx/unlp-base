@@ -146,6 +146,16 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "e417e9918cfede7a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -174,6 +184,9 @@
   },
   "active": "14501cca9672388b",
   "lastOpenFiles": [
+    "CADP/Teoría/ppt/~$15-Parmetros-por-valor-y-por-referencia.ppt",
+    "CADP/Teoría/ppt/~$14-Comunicacin-entre-mdulos.ppt",
+    "CADP/Teoría/ppt/~$13-Alcance-de-las-variables.ppt",
     "CADP/Teoría/ppt/~$12-Modularizacion-Funciones.ppt",
     "CADP/Teoría/ppt/~$11-Modularizacion-procedimientos.ppt",
     "Excalidraw/Drawing 2023-09-11 17.20.23.excalidraw.md",
@@ -187,9 +200,6 @@
     "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md",
     "CADP/Prácticas/code/practica-1-1/7.exe",
     "CADP/Prácticas/code/practica-1-1/7.o",
-    "CADP/Prácticas/code/practica-1-1/7.pas",
-    "CADP/Prácticas/code/7.pas",
-    "CADP/Prácticas/code/practica-1-1/6.exe",
     "CADP/Prácticas/0 - Introducción.md",
     "CADP/Teoría/3 - Estructuras de Control.md",
     "_assets/Excalidraw/Drawing 2023-08-28 17.41.25.excalidraw.md",
