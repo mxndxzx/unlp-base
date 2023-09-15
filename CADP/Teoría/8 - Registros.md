@@ -13,13 +13,18 @@ type
 		{...}
 	end;
 	
-{ Se les da valor con variables si o si }
+{ Se les da vida con variables si o si }
 var
 	variable1, variable2: nombre_registro;
 
-{ Solo se permite asignacion }
+{ Se asignan en cualquier orden y puedo no asignarlos }
+variable1.campo1 := 'hola';
 
 { Se acceden con notación de punto }
+variable2.campo1
 
+{ No puedo hacer un read directo, tengo que pasar por una variable primero }
+read(variable1) ESTO NO
+read(variable1.campo1) ESTO SI
 ```
 

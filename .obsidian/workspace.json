@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CADP/Teoría/8 - Registros.md",
+                "file": "CADP/Prácticas/21 - Modularizacion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CADP/Teoría/8 - Registros.md",
+                "file": "CADP/Prácticas/21 - Modularizacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CADP/Teoría/8 - Registros.md",
+                "file": "CADP/Prácticas/21 - Modularizacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CADP/Teoría/8 - Registros.md"
+                "file": "CADP/Prácticas/21 - Modularizacion.md"
               }
             }
           },
@@ -184,6 +184,22 @@
   },
   "active": "5a158965ba8519c8",
   "lastOpenFiles": [
+    "CADP/Prácticas/11 - Estructuras de control IF y WHILE.md",
+    "CADP/Prácticas/21 - Modularizacion.md",
+    "CADP/Prácticas/13 - Ejercicios Adicionales.md",
+    "CADP/Prácticas/71 - Repaso.md",
+    "CADP/Prácticas/61 - Listas.md",
+    "CADP/Prácticas/51 - Punteros.md",
+    "CADP/Prácticas/42 - Vectores II.md",
+    "CADP/Prácticas/41 - Vectores I.md",
+    "CADP/Prácticas/31 - Registros.md",
+    "CADP/Prácticas/22 - Modularización con Parámetros.md",
+    "CADP/Prácticas/12 - Estructuras de control FOR y REPEAT UNTIL.md",
+    "CADP/Prácticas/0 - Introducción.md",
+    "CADP/Teoría/6 - Modularización.md",
+    "CADP/Prácticas/code/practica-1-2",
+    "CADP/Prácticas/code/practica-12",
+    "CADP/Prácticas/code/New folder",
     "CADP/Teoría/7 - Datos Estructurados.md",
     "CADP/Teoría/8 - Registros.md",
     "CADP/Teoría/ppt/~$17-Estructura-de-datos-Registro.ppt",
@@ -191,34 +207,19 @@
     "_assets/Excalidraw/Drawing 2023-09-14 18.59.52.excalidraw.md",
     "Excalidraw",
     "CADP/Teoría/ppt/~$16-Tipos-de-datos-estructurados.ppt",
-    "CADP/Teoría/6 - Modularización.md",
     "CADP/Teoría/ppt/~$15-Parmetros-por-valor-y-por-referencia.ppt",
     "CADP/Teoría/ppt/~$14-Comunicacin-entre-mdulos.ppt",
     "CADP/Teoría/ppt/~$13-Alcance-de-las-variables.ppt",
     "CADP/Teoría/ppt/~$12-Modularizacion-Funciones.ppt",
-    "CADP/Teoría/ppt/~$11-Modularizacion-procedimientos.ppt",
     "Excalidraw/Drawing 2023-09-11 17.20.23.excalidraw.md",
     "CADP/Teoría/5 - Datos Definidos por el Usuario.md",
-    "CADP/Teoría/ppt/~$10-Modularizacion.ppt",
-    "CADP/Teoría/ppt/~$9-Tipos-de-datos-definidos-por-el-usuario---Subrango.ppt",
     "CADP/Teoría/4 - Máximos y Mínimos.md",
-    "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md",
-    "CADP/Prácticas/0 - Introducción.md",
     "CADP/Teoría/3 - Estructuras de Control.md",
     "_assets/Excalidraw/Drawing 2023-08-28 17.41.25.excalidraw.md",
     "CADP/Teoría/2 - Estructura básica de un programa.md",
     "_assets/Excalidraw/Drawing 2023-08-23 16.52.28.excalidraw.md",
     "CADP/Teoría/0 - Introducción.md",
     "_assets/Pasted image 20230823165750.png",
-    "Personal/Untitled.md",
-    "Personal/Mercado/Introducción.md",
-    "Personal/Formateo Agosto 23'.md",
-    "ReactJS/Apuntes.md",
-    "ReactJS/Intro.md",
-    "ReactJS/Conceptos de React.md",
-    "Git/Principiantes/Control de Versiones.md",
-    "Git/Bienvenido a la Biblia de Git!.md",
-    "Git/Cheatsheet.md",
-    "Docker.md"
+    "Personal/Untitled.md"
   ]
 }
