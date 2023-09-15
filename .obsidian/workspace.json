@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14501cca9672388b",
+            "id": "5a158965ba8519c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CADP/Teoría/6 - Modularización.md",
+                "file": "CADP/Teoría/8 - Registros.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CADP/Teoría/6 - Modularización.md",
+                "file": "CADP/Teoría/8 - Registros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CADP/Teoría/6 - Modularización.md",
+                "file": "CADP/Teoría/8 - Registros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CADP/Teoría/6 - Modularización.md"
+                "file": "CADP/Teoría/8 - Registros.md"
               }
             }
           },
@@ -182,28 +182,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14501cca9672388b",
+  "active": "5a158965ba8519c8",
   "lastOpenFiles": [
+    "CADP/Teoría/7 - Datos Estructurados.md",
+    "CADP/Teoría/8 - Registros.md",
+    "CADP/Teoría/ppt/~$17-Estructura-de-datos-Registro.ppt",
+    "CADP/Teoría/1- Tipos de Datos.md",
+    "_assets/Excalidraw/Drawing 2023-09-14 18.59.52.excalidraw.md",
+    "Excalidraw",
+    "CADP/Teoría/ppt/~$16-Tipos-de-datos-estructurados.ppt",
+    "CADP/Teoría/6 - Modularización.md",
     "CADP/Teoría/ppt/~$15-Parmetros-por-valor-y-por-referencia.ppt",
     "CADP/Teoría/ppt/~$14-Comunicacin-entre-mdulos.ppt",
     "CADP/Teoría/ppt/~$13-Alcance-de-las-variables.ppt",
     "CADP/Teoría/ppt/~$12-Modularizacion-Funciones.ppt",
     "CADP/Teoría/ppt/~$11-Modularizacion-procedimientos.ppt",
     "Excalidraw/Drawing 2023-09-11 17.20.23.excalidraw.md",
-    "CADP/Teoría/6 - Modularización.md",
-    "Excalidraw",
     "CADP/Teoría/5 - Datos Definidos por el Usuario.md",
     "CADP/Teoría/ppt/~$10-Modularizacion.ppt",
     "CADP/Teoría/ppt/~$9-Tipos-de-datos-definidos-por-el-usuario---Subrango.ppt",
-    "CADP/Teoría/ppt/~$8-Tipos-de-datos-definidos-por-el-usuario.ppt",
     "CADP/Teoría/4 - Máximos y Mínimos.md",
     "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md",
-    "CADP/Prácticas/code/practica-1-1/7.exe",
-    "CADP/Prácticas/code/practica-1-1/7.o",
     "CADP/Prácticas/0 - Introducción.md",
     "CADP/Teoría/3 - Estructuras de Control.md",
     "_assets/Excalidraw/Drawing 2023-08-28 17.41.25.excalidraw.md",
-    "CADP/Teoría/1- Tipos de Datos.md",
     "CADP/Teoría/2 - Estructura básica de un programa.md",
     "_assets/Excalidraw/Drawing 2023-08-23 16.52.28.excalidraw.md",
     "CADP/Teoría/0 - Introducción.md",
