@@ -1,4 +1,4 @@
-> Si bien en esta práctica se presentan soluciones utilizando variables globales, el objetivo de las mismas es comprender su funcionamiento y mostrar algunos de los problemas asociados con su uso. A la hora de resolver ejercicios en las siguientes prácticas, **NO** se deberán utilizar variables globales.
+>Si bien en esta práctica se presentan soluciones utilizando variables globales, el objetivo de las mismas es comprender su funcionamiento y mostrar algunos de los problemas asociados con su uso. A la hora de resolver ejercicios en las siguientes prácticas, **NO** se deberán utilizar variables globales.
 
 ### 1
 Dado el siguiente programa, indicar qué imprime:
@@ -20,6 +20,9 @@ begin
 	writeln(b, a);
 end.
 ```
+
+>3 21
+>Acá declara B dentro del procedure, por eso el B del programa no se pisa
 ### 2
 Dado el siguiente programa, indicar qué imprime:
 
@@ -38,6 +41,9 @@ begin
 	writeln(b, a);
 end.
 ```
+
+>3 31
+>Acá no declara B dentro del procedure, entonces toma B global y la pisa abajo
 ### 3
 Dado el siguiente programa, indicar cuál es el error y su causa:
 
@@ -58,6 +64,8 @@ begin
 	writeln(a, b);
 end.
 ```
+
+> Cuando quiere imprimir B se rompe, porque está dentro del procedure y no como global
 ### 4
 Dados los siguientes programas, explique la diferencia:
 
@@ -94,6 +102,8 @@ begin
 	writeln(b, a);
 end.
 ```
+
+>En el primero declara las variables A y B como globales, en el segundo las declara como locales al programa, es decir que se pueden usar solo en el cuerpo del programa, por ende el procedure no la conoce
 ### 5
 Dado el siguiente programa, indique cuál es el error:
 
@@ -110,9 +120,32 @@ begin
 	writeln(a);
 end.
 ```
+
+>A nunca se incializa y el valor de `cuatro` nunca se usa
 ### 6
-Realice un módulo que lea de teclado números enteros hasta que llegue un valor negativo. Al finalizar la lectura el módulo dbee imprimir en pantalla cuál fué el número par más alto.
+Realice un módulo que lea de teclado números enteros hasta que llegue un valor negativo. Al finalizar la lectura el módulo debe imprimir en pantalla cuál fué el número par más alto.
 Luego implemente un programa que invoque al módulo anterior.
+
+```pascal
+program ej6;
+procedure nros (num: integer; var max: integer);
+	begin
+		max := -1;
+		repeat
+			writeln('Ingrese un numero: ');
+			read(num);
+			if ((num > max) and (num mod 2 = 0)) then
+				max := num;
+		until (num < 0)
+	end;
+var
+	num: integer;
+	max: integer;
+begin
+	nros(num,max);
+	writeln('El numero más alto fue ', max);
+end.
+```
 ### 7
 Dado el siguiente programa:
 
