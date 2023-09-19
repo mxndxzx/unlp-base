@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dff71ee0eeb871bf",
+        "id": "f349edae2ef8fa8a",
         "type": "tabs",
         "children": [
           {
-            "id": "5a158965ba8519c8",
+            "id": "23c4160de969656d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CADP/Prácticas/21 - Modularizacion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73f9523f442f9eb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CADP/Teoría/3 - Estructuras de Control.md",
+                "file": "CADP/Teoría/9 - Arrays.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CADP/Prácticas/21 - Modularizacion.md",
+                "file": "CADP/Teoría/9 - Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CADP/Prácticas/21 - Modularizacion.md",
+                "file": "CADP/Teoría/9 - Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CADP/Prácticas/21 - Modularizacion.md"
+                "file": "CADP/Teoría/9 - Arrays.md"
               }
             }
           },
@@ -195,16 +182,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a158965ba8519c8",
+  "active": "23c4160de969656d",
   "lastOpenFiles": [
+    "CADP/Teoría/8 - Registros.md",
+    "CADP/Teoría/9 - Arrays.md",
+    "CADP/Teoría/6 - Modularización.md",
+    "CADP/Teoría/7 - Datos Estructurados.md",
+    "CADP/Teoría/3 - Estructuras de Control.md",
+    "CADP/Prácticas/21 - Modularizacion.md",
     "CADP/Prácticas/code/practica-2-1/6.exe",
     "CADP/Prácticas/code/practica-2-1/6.o",
     "CADP/Prácticas/code/practica-2-1/6.pas",
     "CADP/Prácticas/code/practica-2-1",
-    "CADP/Teoría/3 - Estructuras de Control.md",
     "CADP/Teoría/1- Tipos de Datos.md",
-    "CADP/Teoría/6 - Modularización.md",
-    "CADP/Prácticas/21 - Modularizacion.md",
     "token.txt",
     "CADP/Prácticas/11 - Estructuras de control IF y WHILE.md",
     "CADP/Prácticas/13 - Ejercicios Adicionales.md",
@@ -220,12 +210,9 @@
     "CADP/Prácticas/code/practica-1-2",
     "CADP/Prácticas/code/practica-12",
     "CADP/Prácticas/code/New folder",
-    "CADP/Teoría/7 - Datos Estructurados.md",
-    "CADP/Teoría/8 - Registros.md",
     "CADP/Teoría/ppt/~$17-Estructura-de-datos-Registro.ppt",
     "_assets/Excalidraw/Drawing 2023-09-14 18.59.52.excalidraw.md",
     "Excalidraw",
-    "CADP/Teoría/ppt/~$16-Tipos-de-datos-estructurados.ppt",
     "Excalidraw/Drawing 2023-09-11 17.20.23.excalidraw.md",
     "CADP/Teoría/5 - Datos Definidos por el Usuario.md",
     "CADP/Teoría/4 - Máximos y Mínimos.md",
