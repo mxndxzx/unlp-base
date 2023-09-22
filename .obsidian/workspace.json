@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02fe649f587841fa",
+            "id": "c0adcd7e6f7dff96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CADP/Teoría/10 - Arrays - Recorrido.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eb31123c7589270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CADP/Teoría/9 - Arrays - Conceptos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a158965ba8519c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CADP/Teoría/6 - Modularización.md",
+                "file": "CADP/Teoría/12 - Arrays - Elementos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CADP/Teoría/10 - Arrays - Recorrido.md",
+                "file": "CADP/Teoría/12 - Arrays - Elementos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CADP/Teoría/10 - Arrays - Recorrido.md",
+                "file": "CADP/Teoría/12 - Arrays - Elementos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CADP/Teoría/10 - Arrays - Recorrido.md"
+                "file": "CADP/Teoría/12 - Arrays - Elementos.md"
               }
             }
           },
@@ -208,22 +182,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02fe649f587841fa",
+  "active": "c0adcd7e6f7dff96",
   "lastOpenFiles": [
-    "CADP/Teoría/9 - Arrays - Conceptos.md",
-    "CADP/Teoría/10 - Arrays - Recorrido.md",
-    "CADP/Teoría/ppt/~$21-Esructura-de-datos-Arreglo---Recorridos.ppt",
-    "CADP/Teoría/6 - Modularización.md",
-    "CADP/Prácticas/code/teoria-4/ejemplo-apunte20.exe",
-    "CADP/Prácticas/code/teoria-4/ejemplo-apunte20.o",
-    "CADP/Prácticas/code/teoria-4/ejemplo-apunte20.pas",
-    "CADP/Prácticas/code/teoria-4/ejemplo-apunte20",
-    "CADP/Prácticas/code/teoria-4",
-    "CADP/Prácticas/code/New folder",
+    "CADP/Teoría/3 - Estructuras de Control.md",
+    "CADP/Teoría/12 - Arrays - Elementos.md",
+    "CADP/Teoría/ppt/~$24-Arreglos-4.ppt",
+    "CADP/Prácticas/code/practica-4-1/4.exe",
+    "CADP/Prácticas/code/practica-4-1/4.o",
     "CADP/Teoría/8 - Registros.md",
-    "CADP/Teoría/ppt/~$20-Estructura-de-datos-Arreglo---Conceptos-basicos.ppt",
-    "token.txt",
-    "CADP/Prácticas/code/practica-2-1/6.o",
+    "CADP/Prácticas/code/practica-4-1/4.pas",
+    "CADP/Prácticas/code/practica-4-1/2.exe",
+    "CADP/Prácticas/code/practica-4-1/2.o",
+    "CADP/Teoría/ppt/~$23-Arreglos-3.ppt",
+    "CADP/Teoría/11 - Arrays - Dimensiones.md",
+    "CADP/Prácticas/code/practica-4-1/2.pas",
+    "CADP/Teoría/10 - Arrays - Recorrido.md",
+    "CADP/Teoría/ppt/~$22-Arreglos-2.ppt",
+    "CADP/Prácticas/code/practica-4-1/1.exe",
+    "CADP/Teoría/9 - Arrays - Conceptos.md",
+    "CADP/Teoría/6 - Modularización.md",
     "CADP/Prácticas/71 - Repaso.md",
     "CADP/Prácticas/61 - Listas.md",
     "CADP/Prácticas/51 - Punteros.md",
@@ -242,10 +219,6 @@
     "CADP/Teoría/5 - Datos Definidos por el Usuario.md",
     "CADP/Teoría/4 - Máximos y Mínimos.md",
     "CADP/Prácticas/1 - Estructuras de control IF y WHILE.md",
-    "CADP/Prácticas/0 - Introducción.md",
-    "CADP/Teoría/3 - Estructuras de Control.md",
-    "_assets/Excalidraw/Drawing 2023-08-28 17.41.25.excalidraw.md",
-    "CADP/Teoría/2 - Estructura básica de un programa.md",
     "_assets/Pasted image 20230823165750.png"
   ]
 }
